@@ -7,5 +7,5 @@
 Running server.cpp:
 ./a.out port_number
 
-Running client.cpp
+Running client.cpp:
 ./a.out "localhost" port_number
